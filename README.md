@@ -1,7 +1,7 @@
-#Purpose
+# Purpose
 In this porject, I practiced how to implement Junit against a program. Moreover, I also learned and implemented the theories of software testing such as input partitioning, boundary value analysis, and coverage-based testing. This help me understanding the science of software testing.
 
-#How to run this program with the unitest
+# How to run this program with the unitest
 To compile, run:
 
    ant compile_orig
