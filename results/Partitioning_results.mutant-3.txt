@@ -1,0 +1,21 @@
+Testsuite: swen90006.xilften.PartitioningTests
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.052 sec
+
+Testcase: rent_userDoesNotHaveAXilftenAccount_NoSuchUserExceptionThrown took 0.014 sec
+Testcase: register_repeatedRegister_DuplicateUserExceptionThrown took 0 sec
+Testcase: rent_streamTypeIsSDFor6WeekdaysiNotIncludingFeb29_4point1 took 0 sec
+Testcase: register_lengthOfUsernameIsLessThan4_InvalidUsernameExceptionThrown took 0.007 sec
+Testcase: register_usernameContainsNotOnlyLettersAndDigits_InvalidUsernameExceptionThrown took 0 sec
+Testcase: rent_streamTypeIsSDFor21WeekdaysIncludingFeb29_5point5 took 0 sec
+Testcase: rent_streamTypeIsSDFor6WeekdaysIncludingFeb29_4point1 took 0 sec
+Testcase: rent_streamTypeIsSDFor21WeekdaysiNotIncludingFeb29_5point5 took 0.001 sec
+Testcase: rent_streamTypeIsSDFor5WeekdaysiNotIncludingFeb29_4 took 0 sec
+Testcase: rent_streamTypeIsHDFor6WeekdaysiNotIncludingFeb29_5point1 took 0 sec
+Testcase: rent_streamTypeIsHDFor21WeekdaysiNotIncludingFeb29_6point5 took 0 sec
+Testcase: rent_passwordIsIncorrectForThisUser_IncorrectPasswordExceptionThrown took 0.011 sec
+Testcase: rent_streamTypeIsHDFor6WeekdaysIncludingFeb29_5point1 took 0 sec
+Testcase: register_usernameContainsOnlyLettersAndDigits_nothing took 0 sec
+Testcase: rent_streamTypeIsHDFor21WeekdaysIncludingFeb29_6point5 took 0 sec
+Testcase: rent_streamTypeIsHDFor5WeekdaysIncludingFeb29_5 took 0.001 sec
+Testcase: rent_streamTypeIsSDFor5WeekdaysIncludingFeb29_4 took 0 sec
+Testcase: rent_streamTypeIsHDFor5WeekdaysiNotIncludingFeb29_5 took 0 sec

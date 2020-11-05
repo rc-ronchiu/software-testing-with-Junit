@@ -1,0 +1,26 @@
+Testsuite: swen90006.xilften.BoundaryTests
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 sec
+
+Testcase: register_EC2_off_point took 0.015 sec
+Testcase: register_EC2_on_point took 0 sec
+Testcase: rent_EC2_on_point took 0.001 sec
+Testcase: register_EC1_on_point took 0 sec
+Testcase: rent_EC1_on_point took 0 sec
+Testcase: rent_EC1_off_point took 0 sec
+Testcase: rent_EC14_on_point took 0.006 sec
+Testcase: rent_EC13_on_point took 0.013 sec
+Testcase: rent_EC8_off_point took 0 sec
+Testcase: rent_EC3_on_point2 took 0 sec
+Testcase: register_EC1_off_point took 0 sec
+Testcase: rent_EC10_on_point2 took 0 sec
+Testcase: rent_EC7_off_point took 0 sec
+Testcase: rent_EC3_off_point2 took 0 sec
+Testcase: rent_EC9_on_point2 took 0 sec
+Testcase: rent_EC4_off_point2 took 0.001 sec
+Testcase: rent_EC2_off_point took 0 sec
+Testcase: rent_EC8_on_point took 0.001 sec
+Testcase: rent_EC4_on_point2 took 0 sec
+Testcase: rent_EC7_on_point took 0 sec
+Testcase: rent_EC9_off_point2 took 0 sec
+Testcase: register_EC4_on_point took 0.001 sec
+Testcase: rent_EC10_off_point2 took 0 sec
